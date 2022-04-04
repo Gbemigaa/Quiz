@@ -46,7 +46,7 @@ nextButton.addEventListener('click', () => {
 highscoreButton.addEventListener('click', highscores() )
 
 function highscores(){
-    scoreContainerElement.classList.remove('hide')
+  scoreContainerElement.classList.remove('hide')
 }
 
 function startGame() {
